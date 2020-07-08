@@ -1,1 +1,1 @@
-# Make your shoe class here!
+# Make yor shoe class here!
